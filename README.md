@@ -89,7 +89,8 @@ This dashboard helps stakeholders:
 * Support business expansion decisions
 
 
-<img width="1840" height="746" alt="image" src="https://github.com/user-attachments/assets/f4338e1e-9c6a-443d-9fef-63d11d75dac2" />
+<img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/93e124b2-162d-448a-929c-bd79293ecc36" />
+
 
 ![Excel_Dashboard](https://github.com/user-attachments/assets/b88dd767-6a1c-4c42-8041-0ff6d0c03955)
 
