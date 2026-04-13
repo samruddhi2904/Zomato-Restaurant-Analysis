@@ -2,13 +2,12 @@
 
 ## Project Overview
 
-This project analyzes Zomato restaurant data to identify trends in cuisines, ratings, delivery services, and restaurant distribution across cities and countries. The dashboard was built using **Excel and Power BI** to generate actionable business insights.
+This project analyzes Zomato restaurant data to identify trends in cuisines, ratings, pricing, delivery services, and restaurant distribution across cities and countries. The dashboards were built using **Excel and Power BI** to generate actionable business insights.
 
-# 🎯Key Performance Indicators (KPIs)
 
-The following KPIs were created to analyze restaurant performance:
+# Key Performance Indicators (KPIs)
 
-### 🔹 Primary KPIs
+### 🔹 Primary KPIs (Power BI)
 
 * **Total Restaurants** — Total number of restaurants in dataset
 * **Total Cities** — Number of cities covered
@@ -25,9 +24,20 @@ The following KPIs were created to analyze restaurant performance:
 * **City Wise Restaurant Count** — Restaurant distribution by city
 * **Online Delivery Availability** — Restaurants offering delivery services
 * **Table Booking Availability** — Restaurants offering reservations
+* **Price Range Distribution** — Restaurant pricing segmentation
+* **Rating Distribution** — Customer rating patterns
 
+# Excel Dashboard Features
 
-# Dashboard Features
+* City Wise Restaurant Distribution (Bar Chart)
+* Cuisine Wise Restaurant Count (Bar Chart)
+* Rating Distribution (Histogram)
+* Price Range Distribution (Column Chart)
+* Online Delivery Analysis (Pie Chart)
+* Table Booking Analysis (Donut Chart)
+* Top Cities and Cuisine Analysis
+
+# Power BI Dashboard Features
 
 * Interactive KPI Cards
 * City Wise Map Visualization
@@ -37,10 +47,13 @@ The following KPIs were created to analyze restaurant performance:
 * Cuisine Wise Count Bar Chart
 * Interactive Filters (Country, City)
 
+
+
 # Tools Used
 
 * Microsoft Excel
 * Power BI
+* Pivot Tables & Charts
 * Data Cleaning & Transformation
 * Data Visualization
 
@@ -50,17 +63,20 @@ The following KPIs were created to analyze restaurant performance:
 * Majority of restaurants do not offer online delivery
 * Limited restaurants provide table booking services
 * Restaurants are highly concentrated in major cities
-* Some cuisines have fewer restaurants but higher ratings
+* Mid-range priced restaurants dominate the dataset
+* Most restaurants fall within 3.0–4.5 rating range
+
 
 # Dataset
 
-Zomato Restaurant Dataset containing 9000+ restaurant records including:
+Zomato Restaurant Dataset containing **9000+ restaurant records** including:
 
 * Restaurant Details
 * Location Information
 * Ratings & Votes
 * Delivery & Booking Services
 * Cuisine Types
+* Price Range
 
 # Project Outcome
 
@@ -69,9 +85,11 @@ This dashboard helps stakeholders:
 * Identify popular cuisines
 * Analyze customer preferences
 * Understand restaurant distribution
+* Evaluate pricing strategy
 * Support business expansion decisions
 
 
-
-
 <img width="1840" height="746" alt="image" src="https://github.com/user-attachments/assets/f4338e1e-9c6a-443d-9fef-63d11d75dac2" />
+
+![Excel_Dashboard](https://github.com/user-attachments/assets/b88dd767-6a1c-4c42-8041-0ff6d0c03955)
+
